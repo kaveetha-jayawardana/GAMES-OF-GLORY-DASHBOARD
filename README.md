@@ -2,6 +2,10 @@
 
 <h3 align="center"> <b><i> A comprehensive Power BI Dashboard for  Data Analysis of modern Summer Olympics (Sydney 2000 - Rio 2016)  </i></b> </h3>
 
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFobnV3ODBhc2tpNHB3Z3dnang4ZnFocDRiamFoOHlyemIyaHY3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xqlsxbXNf5cMMWrnU6/giphy.gif"  />
+</div>
+
 <hr>
 
 ### 1. Introduction 
