@@ -13,7 +13,7 @@
 
 By leveraging advanced data visualization techniques, this project aims to present an intuitive and data-driven understanding of the evolution of the modern Olympic Games.</p>
 
-<p>🤝 This project was developed by a group of first year undergraduates (4 members), as part of a university assignment for the BSc in Applied Data Science Communication degree program.</p>
+<p>🤝 This project was developed by a group of second year undergraduates (4 members), as part of a university assignment for the BSc in Applied Data Science Communication degree program.</p>
 <p>⚠️ Note: This project is open-source. Contributions and suggestions are welcome. Feel free to fork and adapt it for your own use. </p>
 <br>
 
