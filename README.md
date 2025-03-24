@@ -117,15 +117,19 @@ The Power BI dashboard comprises six interactive pages, each designed to provide
 <br>
 
 ## References
-1. R. Griffin, *Olympic History – Web Scraping & Data Wrangling*, available at:  
-   - [Part 1: Web Scraping](https://rgriff23.github.io/2018/05/27/olympic-history-1-web-scraping.html)  
-   - [Part 2: Data Wrangling](https://rgriff23.github.io/2018/05/28/olympic-history-2-data-wrangling-1.html)  
-   - [Part 3: Advanced Data Wrangling](https://rgriff23.github.io/2018/05/28/olympic-history-3-data-wrangling-2.html)  
-2. Olympstats, *Historical Olympic Data*, available at:  
-   - [Olympic Statistics & Medal Counts](http://olympstats.com/2016/08/21/the-olymadmen-and-olympstats-and-sports-reference/)  
-3. Power BI Learning Resources:  
-   - [Power BI Dashboard Design Tips](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards-design-tips)  
-   - [Power BI Dashboard Tutorial – DataCamp](https://www.datacamp.com/tutorial/power-bi-dashboard-tutorial)  
-4. Official Dataset:  
-   - [Figshare – Olympic History Dataset](https://doi.org/10.6084/m9.figshare.6121274.v1)
+<p>1. R. Griffin, *Olympic History – Web Scraping & Data Wrangling*, available at:  
+<br>📚 [Part 1: Web Scraping](https://rgriff23.github.io/2018/05/27/olympic-history-1-web-scraping.html)  
+<br>📚 [Part 2: Data Wrangling](https://rgriff23.github.io/2018/05/28/olympic-history-2-data-wrangling-1.html)  
+<br>📚 [Part 3: Advanced Data Wrangling](https://rgriff23.github.io/2018/05/28/olympic-history-3-data-wrangling-2.html)</p>  
+
+<p>2. Olympstats, *Historical Olympic Data*, available at:  
+<br>📚 [Olympic Statistics & Medal Counts](http://olympstats.com/2016/08/21/the-olymadmen-and-olympstats-and-sports-reference/) </p>
+
+<p>3. Power BI Learning Resources:  
+<br>📚 [Power BI Dashboard Design Tips](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards-design-tips)  
+<br>📚 [Power BI Dashboard Tutorial – DataCamp](https://www.datacamp.com/tutorial/power-bi-dashboard-tutorial) </p>
+
+<p>4. Official Dataset:  
+<br>📚[Figshare – Olympic History Dataset](https://doi.org/10.6084/m9.figshare.6121274.v1)</p>
+
 <br> 
