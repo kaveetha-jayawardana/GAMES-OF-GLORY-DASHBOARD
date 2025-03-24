@@ -108,11 +108,11 @@ The Power BI dashboard comprises six interactive pages, each designed to provide
 <br>
 
 ### 7. Future Scope
-To further enhance the analysis, potential areas of exploration include:
-📌 The impact of economic & training conditions on athlete performance
-📌 Advancements in sports science & technology and their role in breaking Olympic records
-📌 Comparing Winter & Summer Olympics to analyze global sports trends
-📌 Building predictive models for future Olympic performances
+<p>To further enhance the analysis, potential areas of exploration include:
+<br>📌 The impact of economic & training conditions on athlete performance
+<br>📌 Advancements in sports science & technology and their role in breaking Olympic records
+<br>📌 Comparing Winter & Summer Olympics to analyze global sports trends
+<br>📌 Building predictive models for future Olympic performances</p>
 
 <br>
 
