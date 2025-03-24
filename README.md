@@ -116,6 +116,14 @@ The Power BI dashboard comprises six interactive pages, each designed to provide
 
 <br>
 
+## Documentation
+This repository includes :
+- Power BI dashboard file
+- Technical Report with implementation details
+- Images of the Dashboard (Page 1 - 6)
+
+<br> 
+
 ## References
  
 1. R. Griffin, *Olympic History – Web Scraping & Data Wrangling*, available at:  
